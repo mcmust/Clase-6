@@ -1,0 +1,50 @@
+.seccion-primera {
+  background-color: white;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  border: 1px solid rgb(177, 173, 173);
+  margin: 30px;
+  box-sizing:border-box;
+  text-align: center;
+
+}
+
+.amarillo {
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+}
+
+.contenedor {
+background-color:rgb(244, 246, 250);
+text-align: center;
+}
+
+.imagen {
+    width: 130px;
+    height: auto;
+    padding-top: 40px;
+}
+
+.imagen2 {
+    width: 80px;
+    height: auto;
+    padding-top: 40px;
+}
+.imagen3 {
+    width: 80px;
+    height: auto;
+    padding-top: 40px;
+}
+.imagen4 {
+    width: 80px;
+    height: auto;
+    padding-top: 40px;
+}
+.imagen5 {
+    width: 80px;
+    height: auto;
+    padding-top: 40px;
+}
